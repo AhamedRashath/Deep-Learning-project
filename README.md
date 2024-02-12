@@ -1,6 +1,6 @@
 DEEP LEARNING PROJECTS:
-AUTO-MPG DATASET
-It is a artificial neural network project in deep learning which contains nine columns including predictable class columns.
+AUTO-MPG DATASET PROJECT:
+It is a artificial neural network project in deep learning which I used artificial neural networks to predict the diabetes.I downloaded the data from kaggle website and that data contains lot of columns including the predictable feature 'class'.
 About Dataset
 Context
 The data is technical spec of cars. The dataset is downloaded from UCI Machine Learning Repository
@@ -40,6 +40,69 @@ i)car name: string (unique for each instance).
 Acknowledgements:
 Dataset: UCI Machine Learning Repository
 Data link : https://archive.ics.uci.edu/ml/datasets/auto+mpg
+
+LIBRARIES USED:
+1)Pandas
+2)Seaborn
+3)Matplotlib
+
+METRICS USED:
+1)Mean_absolute_error
+2)Mean_squared_error.
+
+RESTAURANT CUSTOMER REVIEWS PROJECT:
+It is a recurrent neural network project in deep learning which I used recurrent neural networks to predict the restaurant customer reviews.I downloaded the data from kaggle website and that data contains columns including the predictable feature 'Liked'.
+
+Context
+Most of the Restaurants ask reviews to the customers and based on the reviews the restaurant can improve the customer satisfaction. So Reviews plays a vital role for the successful growth of the restaurant.
+
+Content
+The dataset consists of 1000 rows and 2 columns. Review Column consist of customer reviews and like column consist of 0 and 1. If the review is positive, 1 and if negative, 0.
+
+LIBRARIES USED:
+1)Pandas,
+2)Seaborn,
+3)Matplotlib.
+
+TECHNIQUES USED:
+1)Stopwords,
+2)Wordcloud.
+
+ALGORITHMS USED:
+GaussianNB.
+METRICS USED:
+Classification Report,Confusion_matrix,Accuracy Score.
+
+FASHION-MNIST IMAGE CLASSIFICATION PROJECT:
+It is a Convolutional Neural Network project in deep learning which I used Convolutional Neural Network to predict all images.this dataset is available on jupiter notebook.Paper presents application of convolutional neural network for image classification problem. MNIST and FashionMNIST datasets used to test the performance of CNN model. Paperpresents five different architectures with varying convolutional layers, filter size and fully connected layers. Experiments conducted with varying hyper-parameters namely activation function,optimizer, learning rate, dropout rate and batch size. Results show that selection of activation function, optimizer and dropout rate has impact on accuracy of results. All architectures give accuracy more than 99% for MNIST dataset. Fashion-MNIST dataset is complex than MNIST. For Fashion-MNIST dataset architecture 3 gives better results. Review of obtained results and from literature shows that CNN is suitable for image classification for MNIST and Fashion-MNIST dataset.
+
+Fashion-MNIST Image Classification using Deep Learning:
+Fashion-MNIST consists of 60,000 training images and 10,000 test images. It is a MNIST-like fashion product database. The developers believe MNIST has been overused so they created this as a direct replacement for that dataset. Each image is in greyscale and associated with a label from 10 classes.
+Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total.
+Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. This pixel-value is an integer between 0 and 255.
+
+
+There are 10 different classes of images, as following:
+0: T-shirt/top
+1: Trouser
+2: Pullover
+3: Dress
+4: Coat
+5: Sandal
+6: Shirt
+7: Sneakers
+8: Bag
+9: Ankle boot
+Image dimmensions are 28x28.
+
+LIBRARIES USED:
+MATPLOTLIB
+
+METRICS USED:
+Classification_Report
+
+
+
 
 
 
