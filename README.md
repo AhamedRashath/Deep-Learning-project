@@ -50,6 +50,8 @@ METRICS USED:
 1)Mean_absolute_error
 2)Mean_squared_error.
 
+
+
 RESTAURANT CUSTOMER REVIEWS PROJECT:
 It is a recurrent neural network project in deep learning which I used recurrent neural networks to predict the restaurant customer reviews.I downloaded the data from kaggle website and that data contains columns including the predictable feature 'Liked'.
 
@@ -72,6 +74,8 @@ ALGORITHMS USED:
 GaussianNB.
 METRICS USED:
 Classification Report,Confusion_matrix,Accuracy Score.
+
+
 
 FASHION-MNIST IMAGE CLASSIFICATION PROJECT:
 It is a Convolutional Neural Network project in deep learning which I used Convolutional Neural Network to predict all images.this dataset is available on jupiter notebook.Paper presents application of convolutional neural network for image classification problem. MNIST and FashionMNIST datasets used to test the performance of CNN model. Paperpresents five different architectures with varying convolutional layers, filter size and fully connected layers. Experiments conducted with varying hyper-parameters namely activation function,optimizer, learning rate, dropout rate and batch size. Results show that selection of activation function, optimizer and dropout rate has impact on accuracy of results. All architectures give accuracy more than 99% for MNIST dataset. Fashion-MNIST dataset is complex than MNIST. For Fashion-MNIST dataset architecture 3 gives better results. Review of obtained results and from literature shows that CNN is suitable for image classification for MNIST and Fashion-MNIST dataset.
