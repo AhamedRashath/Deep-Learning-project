@@ -1,8 +1,10 @@
 DEEP LEARNING PROJECTS:
+
 AUTO-MPG DATASET PROJECT:
 It is a artificial neural network project in deep learning which I used artificial neural networks to predict the diabetes.I downloaded the data from kaggle website and that data contains lot of columns including the predictable feature 'class'.
-About Dataset
-Context
+
+About Dataset:
+CONTEXT:
 The data is technical spec of cars. The dataset is downloaded from UCI Machine Learning Repository
 
 CONTENT:
